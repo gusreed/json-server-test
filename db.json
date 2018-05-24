@@ -1,8 +1,24 @@
 {
   "summary": [
     {
-      "id": "8df7dff1-98a9-4b6a-b227-8011201830f3",
-      "subcategory": "Business Security FR"
+      "id": "40787ba1-b099-c9d8-152d-56a2612e8c35",
+      "subcategory_name": "Laser Eye US",
+      "platforms": [
+        {
+          "id": "facebook",
+          "name": "Facebook",
+          "gp_uplift": "5435.0000",
+          "cpa_change": "0.0500",
+          "spend": "1487.3500"
+        },
+        {
+          "id": "cdn",
+          "name": "CDN",
+          "gp_uplift": "5435.0000",
+          "cpa_change": "0.0500",
+          "spend": "1487.3500"
+        }
+      ]
     }
   ],
   "details": [

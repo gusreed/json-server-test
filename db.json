@@ -3,6 +3,12 @@
     {
       "id": "8df7dff1-98a9-4b6a-b227-8011201830f3",
       "subcategory": "Business Security FR"
+      "sources" : [
+        {
+          "id": "taboola",
+          "name": "Taboola"
+        }
+      ]
     }
   ]
 }

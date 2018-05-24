@@ -14,55 +14,52 @@
   "details": [
     {
       "id": "8df7dff1-98a9-4b6a-b227-8011201830f3",
-      
       "facebook": {
         "l30d": {
           "image": "http://via.placeholder.com/100x100",
           "link": "http://foobar.com/",
           "copy": "lorem text here",
           "ctr": 0.89,
-          "cpa: 2.45
+          "cpa": 2.45
         },
         "l7d": {
           "image": "http://via.placeholder.com/100x100",
           "link": "http://foobar.com/",
           "copy": "lorem text here",
           "ctr": 0.89,
-          "cpa: 2.45
+          "cpa": 2.45
         },
         "l7d_runner_up": {
           "image": "http://via.placeholder.com/100x100",
           "link": "http://foobar.com/",
           "copy": "lorem text here",
           "ctr": 0.89,
-          "cpa: 2.45
+          "cpa": 2.45
         }
       },
-      
       "cdn": {
         "l30d": {
           "image": "http://via.placeholder.com/100x100",
           "link": "http://foobar.com/",
           "copy": "lorem text here",
           "ctr": 0.89,
-          "cpa: 2.45
+          "cpa": 2.45
         },
         "l7d": {
           "image": "http://via.placeholder.com/100x100",
           "link": "http://foobar.com/",
           "copy": "lorem text here",
           "ctr": 0.89,
-          "cpa: 2.45
+          "cpa": 2.45
         },
         "l7d_runner_up": {
           "image": "http://via.placeholder.com/100x100",
           "link": "http://foobar.com/",
           "copy": "lorem text here",
           "ctr": 0.89,
-          "cpa: 2.45
+          "cpa": 2.45
         }
       }
-      
     }
   ]
 }

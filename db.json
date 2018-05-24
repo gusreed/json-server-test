@@ -29,10 +29,12 @@
         {
           "id": "facebook",
           "name": "Facebook",
+          "qr": "0.8400",
+          "rpl": "16.5000",
           "segments": [
             {
-              "id": "l30d",
-              "name": "Last 30 Days",
+              "id": "l31d",
+              "name": "Last 31 Days",
               "source": "taboola",
               "source_account_id": "mvfglobal-cliniccompare-sc",
               "source_campaign_id": "192532",
@@ -104,10 +106,12 @@
         {
           "id": "cdn",
           "name": "CDN",
+          "qr": "0.8400",
+          "rpl": "16.5000",
           "segments": [
             {
-              "id": "l30d",
-              "name": "Last 30 Days",
+              "id": "l31d",
+              "name": "Last 31 Days",
               "source": "taboola",
               "source_account_id": "mvfglobal-cliniccompare-sc",
               "source_campaign_id": "192532",

@@ -1,12 +1,8 @@
 {
-  "posts": [
+  "summary": [
     {
-      "id": 1,
-      "title": "hello world"
+      "id": "8df7dff1-98a9-4b6a-b227-8011201830f3",
+      "subcategory": "Business Security FR"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
-

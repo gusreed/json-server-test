@@ -2,7 +2,7 @@
   "summary": [
     {
       "id": "40787ba1-b099-c9d8-152d-56a2612e8c35",
-      "subcategory_name": "Laser Eye US",
+      "name": "Laser Eye US",
       "platforms": [
         {
           "id": "facebook",
@@ -24,52 +24,159 @@
   "details": [
     {
       "id": "8df7dff1-98a9-4b6a-b227-8011201830f3",
-      "facebook": {
-        "l30d": {
-          "image": "http://via.placeholder.com/100x100",
-          "link": "http://foobar.com/",
-          "copy": "lorem text here",
-          "ctr": 0.89,
-          "cpa": 2.45
+      "name": "Laser Eye US",
+      "platforms": [
+        {
+          "id": "facebook",
+          "name": "Facebook",
+          "segments": [
+            {
+              "id": "l30d",
+              "name": "Last 30 Days",
+              "source": "taboola",
+              "source_account_id": "mvfglobal-cliniccompare-sc",
+              "source_campaign_id": "192532",
+              "source_ad_id": "11327785",
+              "platform_campaign_name": "56b8b2b26188d - US Laser Eye - M - Manhattan",
+              "admiral_campaign_id": "56b8b2b26188d",
+              "subcategory_id": "40787ba1-b099-c9d8-152d-56a2612e8c35",
+              "subcategory_name": "Laser Eye US",
+              "headline": "Laser Eye",
+              "image": "http://cdn.taboolasyndication.com/libtrc/static/thumbnails/cd03bc384e124955cebab43a0cb63e67.png",
+              "link": "http://foobar.com/",
+              "copy": "Shocking: 7 Things You Won’t Hear From Laser Eye Surgery Patients",
+              "ctr": "0.0007",
+              "cpa": "43.5700",
+              "conversions": "2",
+              "spend": "87.1400",
+              "uploaded_at": "2018-03-12",
+              "clicks": "876",
+              "impressions": "1427621"
+            },
+            {
+              "id": "l7d",
+              "name": "Last 7 Days",
+              "source": "taboola",
+              "source_account_id": "mvfglobal-cliniccompare-sc",
+              "source_campaign_id": "192532",
+              "source_ad_id": "11327785",
+              "platform_campaign_name": "56b8b2b26188d - US Laser Eye - M - Manhattan",
+              "admiral_campaign_id": "56b8b2b26188d",
+              "subcategory_id": "40787ba1-b099-c9d8-152d-56a2612e8c35",
+              "subcategory_name": "Laser Eye US",
+              "headline": "Laser Eye",
+              "image": "http://cdn.taboolasyndication.com/libtrc/static/thumbnails/cd03bc384e124955cebab43a0cb63e67.png",
+              "link": "http://foobar.com/",
+              "copy": "Shocking: 7 Things You Won’t Hear From Laser Eye Surgery Patients",
+              "ctr": "0.0007",
+              "cpa": "43.5700",
+              "conversions": "2",
+              "spend": "87.1400",
+              "uploaded_at": "2018-03-12",
+              "clicks": "876",
+              "impressions": "1427621"
+            },
+            {
+              "id": "l7d_runner_up",
+              "name": "Last 7 Days Runner Up",
+              "source": "taboola",
+              "source_account_id": "mvfglobal-cliniccompare-sc",
+              "source_campaign_id": "192532",
+              "source_ad_id": "11327785",
+              "platform_campaign_name": "56b8b2b26188d - US Laser Eye - M - Manhattan",
+              "admiral_campaign_id": "56b8b2b26188d",
+              "subcategory_id": "40787ba1-b099-c9d8-152d-56a2612e8c35",
+              "subcategory_name": "Laser Eye US",
+              "headline": "Laser Eye",
+              "image": "http://cdn.taboolasyndication.com/libtrc/static/thumbnails/cd03bc384e124955cebab43a0cb63e67.png",
+              "link": "http://foobar.com/",
+              "copy": "Shocking: 7 Things You Won’t Hear From Laser Eye Surgery Patients",
+              "ctr": "0.0007",
+              "cpa": "43.5700",
+              "conversions": "2",
+              "spend": "87.1400",
+              "uploaded_at": "2018-03-12",
+              "clicks": "876",
+              "impressions": "1427621"
+            }
+          ]
         },
-        "l7d": {
-          "image": "http://via.placeholder.com/100x100",
-          "link": "http://foobar.com/",
-          "copy": "lorem text here",
-          "ctr": 0.89,
-          "cpa": 2.45
-        },
-        "l7d_runner_up": {
-          "image": "http://via.placeholder.com/100x100",
-          "link": "http://foobar.com/",
-          "copy": "lorem text here",
-          "ctr": 0.89,
-          "cpa": 2.45
+        {
+          "id": "cdn",
+          "name": "CDN",
+          "segments": [
+            {
+              "id": "l30d",
+              "name": "Last 30 Days",
+              "source": "taboola",
+              "source_account_id": "mvfglobal-cliniccompare-sc",
+              "source_campaign_id": "192532",
+              "source_ad_id": "11327785",
+              "platform_campaign_name": "56b8b2b26188d - US Laser Eye - M - Manhattan",
+              "admiral_campaign_id": "56b8b2b26188d",
+              "subcategory_id": "40787ba1-b099-c9d8-152d-56a2612e8c35",
+              "subcategory_name": "Laser Eye US",
+              "headline": "Laser Eye",
+              "image": "http://cdn.taboolasyndication.com/libtrc/static/thumbnails/cd03bc384e124955cebab43a0cb63e67.png",
+              "link": "http://foobar.com/",
+              "copy": "Shocking: 7 Things You Won’t Hear From Laser Eye Surgery Patients",
+              "ctr": "0.0007",
+              "cpa": "43.5700",
+              "conversions": "2",
+              "spend": "87.1400",
+              "uploaded_at": "2018-03-12",
+              "clicks": "876",
+              "impressions": "1427621"
+            },
+            {
+              "id": "l7d",
+              "name": "Last 7 Days",
+              "source": "taboola",
+              "source_account_id": "mvfglobal-cliniccompare-sc",
+              "source_campaign_id": "192532",
+              "source_ad_id": "11327785",
+              "platform_campaign_name": "56b8b2b26188d - US Laser Eye - M - Manhattan",
+              "admiral_campaign_id": "56b8b2b26188d",
+              "subcategory_id": "40787ba1-b099-c9d8-152d-56a2612e8c35",
+              "subcategory_name": "Laser Eye US",
+              "headline": "Laser Eye",
+              "image": "http://cdn.taboolasyndication.com/libtrc/static/thumbnails/cd03bc384e124955cebab43a0cb63e67.png",
+              "link": "http://foobar.com/",
+              "copy": "Shocking: 7 Things You Won’t Hear From Laser Eye Surgery Patients",
+              "ctr": "0.0007",
+              "cpa": "43.5700",
+              "conversions": "2",
+              "spend": "87.1400",
+              "uploaded_at": "2018-03-12",
+              "clicks": "876",
+              "impressions": "1427621"
+            },
+            {
+              "id": "l7d_runner_up",
+              "name": "Last 7 Days Runner Up",
+              "source": "taboola",
+              "source_account_id": "mvfglobal-cliniccompare-sc",
+              "source_campaign_id": "192532",
+              "source_ad_id": "11327785",
+              "platform_campaign_name": "56b8b2b26188d - US Laser Eye - M - Manhattan",
+              "admiral_campaign_id": "56b8b2b26188d",
+              "subcategory_id": "40787ba1-b099-c9d8-152d-56a2612e8c35",
+              "subcategory_name": "Laser Eye US",
+              "headline": "Laser Eye",
+              "image": "http://cdn.taboolasyndication.com/libtrc/static/thumbnails/cd03bc384e124955cebab43a0cb63e67.png",
+              "link": "http://foobar.com/",
+              "copy": "Shocking: 7 Things You Won’t Hear From Laser Eye Surgery Patients",
+              "ctr": "0.0007",
+              "cpa": "43.5700",
+              "conversions": "2",
+              "spend": "87.1400",
+              "uploaded_at": "2018-03-12",
+              "clicks": "876",
+              "impressions": "1427621"
+            }
+          ]
         }
-      },
-      "cdn": {
-        "l30d": {
-          "image": "http://via.placeholder.com/100x100",
-          "link": "http://foobar.com/",
-          "copy": "lorem text here",
-          "ctr": 0.89,
-          "cpa": 2.45
-        },
-        "l7d": {
-          "image": "http://via.placeholder.com/100x100",
-          "link": "http://foobar.com/",
-          "copy": "lorem text here",
-          "ctr": 0.89,
-          "cpa": 2.45
-        },
-        "l7d_runner_up": {
-          "image": "http://via.placeholder.com/100x100",
-          "link": "http://foobar.com/",
-          "copy": "lorem text here",
-          "ctr": 0.89,
-          "cpa": 2.45
-        }
-      }
+      ]
     }
   ]
 }
